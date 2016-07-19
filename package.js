@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  ldapjs: "0.7.1", 
+  ldapjs: "1.0.0", 
 });
 
 Package.onUse(function (api) {
