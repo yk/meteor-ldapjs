@@ -2,7 +2,7 @@ Package.describe({
   name: 'typ:ldapjs',
   version: '0.7.3',
   summary: 'Meteor package wrapper for the ldapjs Npm module https://www.npmjs.com/package/ldapjs',
-  git: 'https://github.com/typ90/meteor-ldapjs',
+  git: 'https://github.com/yk/meteor-ldapjs',
   documentation: 'README.md'
 });
 
